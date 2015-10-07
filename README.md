@@ -1,7 +1,7 @@
 # MongoDB-PHP-Registration-Login-System
 A very basic Registration and Login System using PHP and MongoDB.
-
 Please note the following
+
 1. This system conists of a Registration page, to register new users, a Login page, for registered users.
 
 2. A home page once a user logs in. 
