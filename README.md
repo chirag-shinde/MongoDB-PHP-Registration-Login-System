@@ -17,3 +17,6 @@ Please note the following
 7. It was made with learning in mind and I'm open to all improvements that can be made to the system. 
 
 8. Feel free to use it as you please.
+
+9. I've also used Bootstrap but haven't uploaded the bootstrap files. You can use them by simply addding the bootstrap folders to the same directory as these files. 
+
